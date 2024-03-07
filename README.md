@@ -1,4 +1,4 @@
-# Hideth
+# [Hideth](https://github.com/abikesa/hideth)
 - Childhood
    - Pie Jesu
       - [Annuŋŋamya](https://ayfband.bandcamp.com/album/yesu-mukwano) was my word of the year in 2023
