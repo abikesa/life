@@ -1,3 +1,6 @@
+
+![](https://abikesa.github.io/lor/LoR.png)
+
 Here is a detailed table capturing the concepts and their metaphorical connections:
 
 | Concept           | Definition                                                                                               | Role in Complexity                                                                                 | Metaphorical Connection                                                                                  |
