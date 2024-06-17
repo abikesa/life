@@ -14,9 +14,16 @@ Here is a detailed table capturing the concepts and their metaphorical connectio
 
 This table highlights the connections between these concepts, illustrating the richness and complexity they bring to their respective fields.
 
+### Dionysus 1, 2, 3 `Root, 3rd, 5th, ♭♭7, 9th`
+   - Pentatonic
+
+### [Sing O Muse](mcr.md) [4](https://www.youtube.com/watch?v=XHxdrZ5fF2A) `11th, 13th`
+   - Distant
+     
+### Apollo 5, 6 `♭9,♯9,♯11,♭13`
+   - Remote
 
 # Notes
  
-
 If only you had embraced the artistic life, you might find yourself less concerned about the authenticity of the expensive liquor you’re purchasing in Uganda, where fakes are rampant. The truth is, no matter how sophisticated one may be, `if you can't detect a counterfeit`, then the fraudster is, in a sense, more sophisticated than you. This reminds me of Jacob from the Bible, a master of deception and the original counterfeiter. Just as an artist learns to appreciate subtle nuances in color, flavor, and sound, immersing yourself in the artistic life could heighten your ability to discern the genuine from the fake. But remember, if a fake eludes your detection, it simply means the deception was executed with remarkable skill. In the end, whether it's art or liquor, the experience and enjoyment can often transcend concerns of authenticity. 
  
